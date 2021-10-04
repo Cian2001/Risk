@@ -5,8 +5,8 @@ This assignment was split into 5 sprints, the first 4 making the game, last spri
 In the original repository there was 161 commits and it took place over the course of 3-4 months.
 Disclaimer: I do not assume ownership of all the code in this repo. This project was made in collaberation with the team members mentioned below.
 
-Team Name: WhyNotBot
-Team Members:
+# Team Name: WhyNotBot
+# Team Members:
 
 Cian O'Reilly Student Number:19394833 
 
@@ -14,14 +14,14 @@ Mohamed Eltayeb Student Number:19349633
 
 Tom Higgins Student Number: 19343176
 
-Installation:
+# Installation:
 // Eclipse
 
 Step 1. Open up the project in Eclipse, Step 2. click the Main.java Step 3. Click run
 
 //Jar File Step 1. Double click the risk.jar
 
-Sprint 5
+# Sprint 5
 Reinforcements: Trading in Cards: It will not trade in unless its forced to trade in (e.g CCC)
 
 For Player: Code reinforcements territory with the least amount of armies that shares a border with the enemy, else bordering a neutral For Neutrals: it randomly selects them
@@ -32,7 +32,7 @@ Attacking: Each attack is given a probability of winning Any attack with probabi
 
 Fortification: This is not a useful tool and thus our bot skips fortification always
 
-Sprint 4
+# Sprint 4
 1.Include the use to territory cards, that is, the winning of territory cards after combat and the exchange of territory cards for reinforcements, according to the rules of Risk☑
 
 2.Users should be allowedto enter just the first letter of the insignias that they wish to exchange, e.g. “III” for exchange of 3 infantry cards.☑
@@ -41,7 +41,7 @@ Sprint 4
 
 alt text
 
-Sprint 3
+# Sprint 3
 1.Roll a dice each to see who takes the first turn. Highest roll does first. Re-roll if a draw. Inform the user.☑
 
 2.Allow the players to play a series of reduced turns. The turns do not include getting or exchanging territory cards: Calculate the number of reinforcements that a user gets based on the number of occupied countries and continents. Inform the user.
@@ -54,7 +54,7 @@ Sprint 3
 
 6.The user should receive appropriate error messages if their commands are invalid.☑ alt text
 
-Sprint 2
+# Sprint 2
 1.As part of asking the player’s names, allocate colours to them.☑
 
 2.Give players 36 armies and neutrals 24 armies.☑
@@ -67,4 +67,6 @@ Sprint 2
 
 6.The user should receive appropriate error messages if their commands are invalid.☑
 
-alt text
+# Sprint 1
+
+1. Develop was UI using java swing.
